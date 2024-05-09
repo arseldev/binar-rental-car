@@ -90,7 +90,7 @@ _Ikuti petunjuk dibawah untuk penggunaan program._
 
 1. Clone repository
    ```sh
-   git clone https://github.com/accenggg/cars-management
+   git clone https://github.com/arseldev/binar-rental-car
    ```
 2. Install Dependensi
    ```sh
